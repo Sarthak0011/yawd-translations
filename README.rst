@@ -5,7 +5,7 @@ yawd-translations, create multilingual django websites
 provides a set of tools for creating multilingual websites with
 `django <http://www.djangoproject.com>`_.
 
-The application includes the following tools:
+Thia application includes the following tools:
 
 * Manage the website's installed Languages through the admin interface
 * Generate translation messages (``makemessages`` and ``compilemessages``) for all installed applications and defined languages using the admin interface (no need to restart the web server).
@@ -32,7 +32,7 @@ The application includes the following tools:
 	branch. Since many of us run production systems tied to Django 1.4, both
 	v0.5.2 and the latest documentation will be online on readthedocs.org. 
 
-Usage and demo
+The Usage and Demo of this Website
 ==============
 
 See the `yawd-translations documentation <http://yawd-translations.readthedocs.org/en/latest/>`_ 
